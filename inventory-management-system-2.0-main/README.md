@@ -90,5 +90,4 @@ See `BUILD_WINDOWS.md` for the exact steps (PyInstaller + Inno Setup).
   Unsigned apps may be blocked. For selling, use code-signing.
 
 ## Author
-
-Karan Shroff
+Vicky kumar and team [for samsumg innovation campus hackathon]
